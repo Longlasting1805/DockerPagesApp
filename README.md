@@ -1,0 +1,2 @@
+# DockerPagesApp
+Containerize Django app
